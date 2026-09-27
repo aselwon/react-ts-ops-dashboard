@@ -1,0 +1,37 @@
+node_modules/
+.pnpm-store/
+.DS_Store
+.next/
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo
+.env*
+!.env.example
+
+# OpenNext
+.open-next
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+
+
+# Local AI / agent instruction scaffolding (do not publish)
+AGENTS.md
+BRIEF_CHATGPT.md
+CEL.txt
+CEL_UI.txt
+CODEX_AUTONOMOUS_PROMPT.md
+CODEX_UI_DIFF_PROMPT.md
+DONE.md
+PLAN.md
+HOW_TO_RUN_CODEX.md
+UI_REVIEW.md
+DEPLOY_STATUS.md
+_ui-diff-prompts/
+_reference/
+
+
+.vercel/
