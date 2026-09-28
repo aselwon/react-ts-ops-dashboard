@@ -2,10 +2,7 @@
 
 OpsBoard is a portfolio MVP for support operations teams. It combines a ticket queue, ticket detail and editing flows, role-aware navigation, and KPI charts in a responsive Next.js dashboard.
 
-## Public demo
-
-[Open the live OpsBoard demo](https://opsboard.majewski-web-audit.workers.dev).
-
+**Demo:** [Open the live OpsBoard demo](https://opsboard.majewski-web-audit.workers.dev)
 
 ## Run locally
 
